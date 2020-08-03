@@ -13,8 +13,8 @@ This is a landing page for a company to try to entice visitors to use their offe
 
 ## Links
 
-Repository Link - https://github.com/jacobwilde378/Horiseon
-Live Link - https://jacobwilde378.github.io/Horiseon/
+* Repository Link - https://github.com/jacobwilde378/Horiseon
+* Live Link - https://jacobwilde378.github.io/Horiseon/
 
 ## Installation
 

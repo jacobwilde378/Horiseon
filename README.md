@@ -4,11 +4,17 @@ This is a landing page for a company to try to entice visitors to use their offe
 
 ## Table of Contents
 
+* [Live Link](#Link)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
 * [History](#History)
 * [Screenshots](#Screenshots)
+
+## Link
+
+Repository Link - https://github.com/jacobwilde378/Horiseon
+Live Link - https://jacobwilde378.github.io/Horiseon/
 
 ## Installation
 
